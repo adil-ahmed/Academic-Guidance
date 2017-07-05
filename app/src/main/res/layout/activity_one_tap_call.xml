@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.adil.academic_guidance.LauncherPage"
+        android:background="@color/colorLauncher"
+        >
+
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:src="@drawable/phone"
+        android:id="@+id/buttonCall"
+        android:layout_gravity="center"
+        android:layout_alignParentTop="true"
+
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="236dp"
+        android:background="@color/colorLauncher"/>
+
+
+</RelativeLayout>
+

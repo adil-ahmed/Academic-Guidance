@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_about_app"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.adil.academic_guidance.AboutApp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="This is an android based application designed to run on android mobile phone. It is made for the students and teachers of the Leading University. It contains contact information of all the faculty members and the students. There is one tap phone calling option for both the teachers and students. Any student can easily find the course list, books, class routine, exam routine and other important materials in their batch group. Teachers and students can post important message in the app."
+        android:id="@+id/app"
+        android:layout_gravity="center_vertical|right"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="textStart" />
+</RelativeLayout>
+    </ScrollView>

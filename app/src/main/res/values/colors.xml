@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="HomePageBackground">#b6b9b8</color>
+    <color name="HomePageButtonsColor">#86ffeb</color>
+    <color name="HomePageButtonsTextColor">#86ffeb</color>
+    <color name="BackGroundColorOfPages">#ffffff</color>
+
+    <color name="colorPrimary">#93b2cf</color>
+    <color name="colorPrimaryDark">#afd5f4</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorDeveloper">#ecf0f1</color>
+    <color name="colorLauncher">#ecf0f1</color>
+    <color name="colorListText">#000000</color>
+    <color name="ButtonColor">#e5e6e9</color>
+</resources>

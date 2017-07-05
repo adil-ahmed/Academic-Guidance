@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.adil.academic_guidance">
+
+    <item
+        android:id="@+id/app"
+        android:orderInCategory="100"
+        android:title="About app"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:title="About Developers"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/signOut"
+        android:orderInCategory="100"
+        android:title="Sign out"
+        app:showAsAction="never" />
+
+
+
+
+
+</menu>
